@@ -5,11 +5,11 @@ ICT Diploma Portfolio – Jeffry Mbaga
 This repository contains my academic and practical work in the following areas:
 
 📚 Units Covered
-- Graphic Design
-- Website Design
-- Mobile Application Development
-- Computer Networking
-- Cyber Security
+- Graphic Design: Collection of digital assets, UI/UX layouts, and visual communication projects.
+- Website Design: Knowledge on HTML,CSS,Java,Javascript,C++
+- Mobile Application Development: Knowledge on Android studio, Flutter, java and reactive native
+- Computer Networking: Configurations for LAN/WAN, routing, and switching.
+- Cyber Security: Practical labs and documentation on network hardening and security protocols.
 - Management Information Systems (MIS)
 - Information Systems Support
 
@@ -24,6 +24,7 @@ This repository contains my academic and practical work in the following areas:
 🎯 Objective
 To build strong practical ICT skills and gain internship or entry-level ICT opportunities.
 
+Connect with me: (https://www.linkedin.com/in/mbaga-jeffrey-67799b32a/)
 📍 Location: Kenya  
 📧 Contact: jeffrymbaga6@gmail.com
 
