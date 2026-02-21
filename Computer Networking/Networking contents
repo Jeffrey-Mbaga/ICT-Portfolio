@@ -1,1 +1,30 @@
+🌐 Computer Networking Portfolio
 
+Welcome to the Networking section of my ICT Portfolio. This directory documents my technical proficiency in designing, configuring, and troubleshooting robust network infrastructures.
+
+🛠 Tech Stack & Tools
+* Hardware: Cisco Catalyst Switches, ISR Routers, Ubiquiti Access Points.
+* Simulators/Emulators: Cisco Packet Tracer, GNS3, EVE-NG.
+* Protocols: TCP/IP, DNS, DHCP, OSPF, BGP, VLANs (802.1Q), STP.
+* Security: VPN (IPsec/SSL), Firewalls (ASA/Palo Alto), Access Control Lists (ACLs).
+* Analysis: Wireshark, Nmap, SolarWinds.
+
+ Featured Projects
+
+1. Enterprise Branch Office Design (Packet Tracer)
+* The Challenge: Design a redundant network for a mid-sized office with 3 departments.
+* The Solution: Implemented Inter-VLAN routing, HSRP for gateway redundancy, and NAT for internet access.
+
+2. Network Automation with Python
+* The Challenge: Manual configuration of 20+ switches was time-consuming and prone to human error.
+* The Solution: Developed a Python script using `Netmiko` to push VLAN configurations and backup running configs automatically.
+
+🔬 Lab Lab Exercises & Documentation
+* Subnetting Schemes: Detailed breakdown of VLSM for optimized IP addressing.
+* Packet Analysis: Wireshark captures demonstrating a 3-way handshake and DNS resolution.
+* Security Hardening: Documentation on disabling unused ports and implementing SSH over Telnet.
+
+📜 Certifications
+* Cisco Certified Network Associate (CCNA) - 2026
+
+“Building the backbone of digital communication with security and scalability in mind.”
